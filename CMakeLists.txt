@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
 
 set(PROJECT_NAME "BuriedPoint")
+set(CMAKE_CXX_STANDARD 20)
 
 project(${PROJECT_NAME} VERSION 1.1.1.1)
 
